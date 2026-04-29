@@ -1,10 +1,10 @@
-# Inference Mapping - Task 06
+# Inference Mapping - Task 16
 
 ## Student Details
 Course: B.Tech R&Ai 
 College: MRU  
 Batch No: 5  
-Task No: 06  
+Task No: 16  
 Task Name: Inference Mapping  
 
 ## Problem Chosen
